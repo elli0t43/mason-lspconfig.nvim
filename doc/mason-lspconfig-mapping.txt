@@ -220,6 +220,7 @@ vtsls                                     vtsls
 vetur-vls                                 vuels
 wgsl-analyzer                             wgsl_analyzer
 yaml-language-server                      yamlls
+yls-yara				  yls
 zk                                        zk
 zls                                       zls
 

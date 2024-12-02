@@ -221,6 +221,7 @@ M.lspconfig_to_package = {
     ["vuels"] = "vetur-vls",
     ["wgsl_analyzer"] = "wgsl-analyzer",
     ["yamlls"] = "yaml-language-server",
+    ["yls"] = "yls-yara",
     ["zk"] = "zk",
     ["zls"] = "zls",
 }

@@ -241,6 +241,7 @@ return {
   ["yaml.docker-compose"] = { "docker_compose_language_service", "yamlls" },
   ["yaml.gitlab"] = { "gitlab_ci_ls", "yamlls" },
   ["yaml.openapi"] = { "vacuum" },
+  yara = { "yls" },
   yml = { "spectral" },
   zig = { "zls" },
   zir = { "zls" }

@@ -217,5 +217,7 @@
 | [vuels](https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md#vuels) | [vetur-vls](https://mason-registry.dev/registry/list#vetur-vls) |
 | [wgsl_analyzer](https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md#wgsl_analyzer) | [wgsl-analyzer](https://mason-registry.dev/registry/list#wgsl-analyzer) |
 | [yamlls](https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md#yamlls) | [yaml-language-server](https://mason-registry.dev/registry/list#yaml-language-server) |
+| [yls](https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md#yls) |
+[yls-yara](https://mason-registry.dev/registry/list#yls-yara) |
 | [zk](https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md#zk) | [zk](https://mason-registry.dev/registry/list#zk) |
 | [zls](https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md#zls) | [zls](https://mason-registry.dev/registry/list#zls) |

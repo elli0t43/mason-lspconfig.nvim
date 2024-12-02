@@ -445,6 +445,7 @@ local DEFAULT_SETTINGS = {
 | YAML | [`hydra_lsp`](https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md#hydra_lsp) |
 | YAML | [`spectral`](https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md#spectral) |
 | YAML | [`yamlls`](https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md#yamlls) |
+| YARA | [`yls`](https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md#yls)
 | Zig | [`zls`](https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md#zls) |
 | - | [`autotools_ls`](https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md#autotools_ls) |
 | - | [`custom_elements_ls`](https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md#custom_elements_ls) |
